@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#0a0a0a"/>
+  <path d="M4 22a12 12 0 0 1 24 0" fill="#e89b86"/>
+  <path d="M4 22a12 12 0 0 1 24 0" fill="url(#g)"/>
+  <defs>
+    <linearGradient id="g" x1="16" y1="8" x2="16" y2="22">
+      <stop stop-color="#e89b86"/>
+      <stop offset="1" stop-color="#f2c48a"/>
+    </linearGradient>
+  </defs>
+  <text x="16" y="20" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="9" font-weight="800" fill="#fff">JCS</text>
+</svg>
